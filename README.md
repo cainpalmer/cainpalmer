@@ -6,5 +6,5 @@ I'm a web developer who is passionate about writing code, solving problems, expl
 
 - 🔭 I’m a Web Development graduate from BloomTech.
 - 📚 I have real-world, team-based Web Development experiences using skills such as React, HTML, CSS, and Javascript.
-- 👯 I’m looking for a Web Development internship to enhance my skills and learn as much as humanly possible.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/cain-palmer) [Gmail](cain.a.palmer@gmail.com)
+- 👯 I’m looking for a Web Development opportunities to enhance my skills and learn as much as humanly possible.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/cain-palmer) | [Gmail](cain.a.palmer@gmail.com)
